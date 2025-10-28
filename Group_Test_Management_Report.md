@@ -135,7 +135,8 @@ Evidence for TC-06: Screenshot of “Please enter a guess!” message (Passing T
 Sign Off
 
 Name	                    Role	    Initials	Date
-Mercy Melody Chemutai	Test Manager	M.M.C.	2025-10-
+
+Mercy Melody Chemutai	Test Manager	M.M.C.	2025-10-28
 
 Lorraine Bwayo	      Risk Analyst  L.B.	2025-10-28
 
