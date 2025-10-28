@@ -133,9 +133,12 @@ Evidence for BUG-001/002: Screenshot showing blank state after reset.
 Evidence for TC-06: Screenshot of “Please enter a guess!” message (Passing Test).
 
 Sign Off
+
 Name	                    Role	    Initials	Date
-Mercy Melody Chemutai	Test Manager	M.M.C.	2025-10-28
+Mercy Melody Chemutai	Test Manager	M.M.C.	2025-10-
+
 Lorraine Bwayo	      Risk Analyst  L.B.	2025-10-28
+
 Susan Mwangi	        Test Executor	S.M.	2025-10-28
 
 Overall Summary
