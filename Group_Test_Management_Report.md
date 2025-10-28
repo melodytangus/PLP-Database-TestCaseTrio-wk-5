@@ -10,7 +10,7 @@ Submission Date: 2025-10-28
 Team Information
 Role	        Name	                  Responsibilities
 Test Manager	Mercy Melody Chemutai	  Planning, scheduling, coordination, metric tracking
-Risk Analyst	Lorraine Bwayo         	Risk identification, prioritization, test design linkage
+Risk Analyst	Lorraine Nekesa Bwayo         	Risk identification, prioritization, test design linkage
 Test Executor	Susan Mwangi	          Execution, evidence capture, defect logging
 
 Group Rules
@@ -138,7 +138,7 @@ Name	                    Role	    Initials	Date
 
 Mercy Melody Chemutai	Test Manager	M.M.C.	2025-10-28
 
-Lorraine Bwayo	      Risk Analyst  L.B.	2025-10-28
+Lorraine Nekesa Bwayo	      Risk Analyst  L.N.B.	2025-10-28
 
 Susan Mwangi	        Test Executor	S.M.	2025-10-28
 
